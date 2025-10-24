@@ -1,0 +1,10 @@
+pydantic
+python-dotenv
+azure-ai-projects
+azure-ai-agents
+azure-identity
+azure-identity-broker
+azure-cosmos
+pymongo
+requests
+azure-ai-evaluation
